@@ -19,5 +19,19 @@ Each project has been implemented with **clear code, structured logic, and user 
 
 ---
 
+## 👨‍💻 Author
+
+-- **Name**: Hemnat Mohane
+
+-- **Student**: AI&DS, SISTec GN College
+
+-- **Email**: hemantmohane@gmail.com
+
+
+## 🚀 Usage Guide
+
+If you find this repository helpful, give it a star on Github! ⭐:
+---
+
 
 
