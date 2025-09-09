@@ -30,7 +30,7 @@ Each project has been implemented with **clear code, structured logic, and user 
 
 ## 🚀 Usage Guide
 
-If you find this repository helpful, give it a star on Github! ⭐:
+If you find this repository helpful, give it a STAR on Github! ⭐:
 ---
 
 
